@@ -1,4 +1,4 @@
-# template-vuejs_flask
+# template-vuejs-flask
 This is the template code for fast development when using vuejs for the frontend and Flask for the backend.
 
 # How to use it?
