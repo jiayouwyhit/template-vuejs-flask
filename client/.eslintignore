@@ -1,0 +1,3 @@
+build/*.js
+config/*.js
+src/revised-library/comment-core-library/*.js
